@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 29 12:41:05 EDT 2023
+gameoflife-web-1.0-SNAPSHOT.pom>=
+gameoflife-web-1.0-SNAPSHOT.war>=

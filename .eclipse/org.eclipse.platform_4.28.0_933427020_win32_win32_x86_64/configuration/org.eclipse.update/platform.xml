@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1687896032751" transient="false" shared_ur="file:configuration/org.eclipse.update/platform.xml" version="3.0">
+	<site updateable="true" url="file:/C:/Users/naray/.eclipse/org.eclipse.platform_4.28.0_933427020_win32_win32_x86_64/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.eclipse.wst.json_core.feature" version="1.1.8.v202305221615" url="features/org.eclipse.wst.json_core.feature_1.1.8.v202305221615/">
+		</feature>
+		<feature id="org.eclipse.rap.tools.feature" version="3.25.0.20230607-1404" url="features/org.eclipse.rap.tools.feature_3.25.0.20230607-1404/">
+		</feature>
+		<feature id="org.eclipse.graphiti.feature" version="0.19.1.202211181144" url="features/org.eclipse.graphiti.feature_0.19.1.202211181144/" plugin-identifier="org.eclipse.graphiti.ui">
+		</feature>
+		<feature id="org.eclipse.wst.json_ui.feature" version="1.1.10.v202305221615" url="features/org.eclipse.wst.json_ui.feature_1.1.10.v202305221615/" plugin-identifier="org.eclipse.wst.json.ui">
+		</feature>
+		<feature id="org.eclipse.wst.server_core.feature" version="3.4.0.v202304050316" url="features/org.eclipse.wst.server_core.feature_3.4.0.v202304050316/">
+		</feature>
+		<feature id="org.eclipse.wst.web_core.feature" version="3.30.0.v202305230750" url="features/org.eclipse.wst.web_core.feature_3.30.0.v202305230750/">
+		</feature>
+		<feature id="org.eclipse.dltk.core" version="6.3.0.202305301153" url="features/org.eclipse.dltk.core_6.3.0.202305301153/" plugin-identifier="org.eclipse.dltk">
+		</feature>
+		<feature id="org.eclipse.dltk.core.index.lucene" version="6.3.0.202305301153" url="features/org.eclipse.dltk.core.index.lucene_6.3.0.202305301153/" plugin-identifier="org.eclipse.dltk.core.index">
+		</feature>
+		<feature id="org.eclipse.php" version="8.0.0.202306050832" url="features/org.eclipse.php_8.0.0.202306050832/" plugin-identifier="org.eclipse.php.ui">
+		</feature>
+		<feature id="org.eclipse.wst.server_userdoc.feature" version="3.3.300.v201901310132" url="features/org.eclipse.wst.server_userdoc.feature_3.3.300.v201901310132/">
+		</feature>
+		<feature id="org.eclipse.wst.web_ui.feature" version="3.30.0.v202305230750" url="features/org.eclipse.wst.web_ui.feature_3.30.0.v202305230750/" plugin-identifier="org.eclipse.wst.web.ui">
+		</feature>
+		<feature id="org.eclipse.wst.jsdt.feature" version="2.4.400.v202304022004" url="features/org.eclipse.wst.jsdt.feature_2.4.400.v202304022004/" plugin-identifier="org.eclipse.wst.jsdt.ui">
+		</feature>
+		<feature id="org.eclipse.jpt.jpadiagrameditor.feature" version="1.2.300.v202301061019" url="features/org.eclipse.jpt.jpadiagrameditor.feature_1.2.300.v202301061019/" plugin-identifier="org.eclipse.jpt.jpadiagrameditor.branding">
+		</feature>
+		<feature id="org.eclipse.wst.web_userdoc.feature" version="3.18.0.v202004271556" url="features/org.eclipse.wst.web_userdoc.feature_3.18.0.v202004271556/">
+		</feature>
+		<feature id="org.eclipse.php.composer" version="8.0.0.202306050832" url="features/org.eclipse.php.composer_8.0.0.202306050832/">
+		</feature>
+		<feature id="org.eclipse.wst.jsdt.chromium.debug.feature" version="0.6.300.v202205232338" url="features/org.eclipse.wst.jsdt.chromium.debug.feature_0.6.300.v202205232338/" plugin-identifier="org.eclipse.wst.jsdt.chromium.debug">
+		</feature>
+		<feature id="org.eclipse.wst.server_ui.feature" version="3.3.1700.v202304271828" url="features/org.eclipse.wst.server_ui.feature_3.3.1700.v202304271828/">
+		</feature>
+		<feature id="org.eclipse.wst.web_js_support.feature" version="3.22.0.v202305221615" url="features/org.eclipse.wst.web_js_support.feature_3.22.0.v202305221615/">
+		</feature>
+	</site>
+</config>
