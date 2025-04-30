@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<entry xml:base="http://community.chocolatey.org/api/v2/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <id>http://community.chocolatey.org/api/v2/Packages(Id='maven',Version='3.9.3')</id>
+  <title type="text">maven</title>
+  <summary type="text">Apache Maven is a software project management and comprehension tool. Based on the concept of a project object 
+	model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information</summary>
+  <updated>2023-06-28T16:18:13Z</updated>
+  <author>
+    <name>The Apache Maven team</name>
+  </author>
+  <link rel="edit-media" title="V2FeedPackage" href="Packages(Id='maven',Version='3.9.3')/$value" />
+  <link rel="edit" title="V2FeedPackage" href="Packages(Id='maven',Version='3.9.3')" />
+  <category term="CCR.Website.V2FeedPackage" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+  <content type="application/zip" src="https://community.chocolatey.org/api/v2/package/maven/3.9.3" />
+  <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+    <d:Version>3.9.3</d:Version>
+    <d:Title>Maven</d:Title>
+    <d:Description>Apache Maven is a software project management and comprehension tool. Based on the concept of a project object 
+	model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information
+    
+**Please Note**: This is an automatically updated package. If you find it is
+out of date by more than a day or two, please contact the maintainer(s) and
+let them know the package is no longer updating correctly.</d:Description>
+    <d:Tags xml:space="preserve"> apache maven build script xml java development </d:Tags>
+    <d:Copyright>2002-2021 The Apache Software Foundation</d:Copyright>
+    <d:Created m:type="Edm.DateTime">2023-06-26T18:02:16.27</d:Created>
+    <d:Dependencies></d:Dependencies>
+    <d:DownloadCount m:type="Edm.Int32">953556</d:DownloadCount>
+    <d:VersionDownloadCount m:type="Edm.Int32">1557</d:VersionDownloadCount>
+    <d:GalleryDetailsUrl>https://community.chocolatey.org/packages/maven/3.9.3</d:GalleryDetailsUrl>
+    <d:ReportAbuseUrl>https://community.chocolatey.org/package/ReportAbuse/maven/3.9.3</d:ReportAbuseUrl>
+    <d:IconUrl>https://cdn.statically.io/gh/TheCakeIsNaOH/chocolatey-packages/master/Icons/maven.svg</d:IconUrl>
+    <d:IsLatestVersion m:type="Edm.Boolean">true</d:IsLatestVersion>
+    <d:IsAbsoluteLatestVersion m:type="Edm.Boolean">true</d:IsAbsoluteLatestVersion>
+    <d:IsPrerelease m:type="Edm.Boolean">false</d:IsPrerelease>
+    <d:Language m:null="true"></d:Language>
+    <d:Published m:type="Edm.DateTime">2023-06-26T18:02:16.27</d:Published>
+    <d:LicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</d:LicenseUrl>
+    <d:RequireLicenseAcceptance m:type="Edm.Boolean">false</d:RequireLicenseAcceptance>
+    <d:PackageHash>LUdokFmxscTbrtRSvIvb3PL3tyQ0AlyNWywgBX68JxfTUsqnaGWKnou99NqVpDl76wBqv3ShEZiF8EgaaAprFw==</d:PackageHash>
+    <d:PackageHashAlgorithm>SHA512</d:PackageHashAlgorithm>
+    <d:PackageSize m:type="Edm.Int64">9373765</d:PackageSize>
+    <d:ProjectUrl>http://maven.apache.org/</d:ProjectUrl>
+    <d:ReleaseNotes>https://maven.apache.org/docs/3.9.3/release-notes.html</d:ReleaseNotes>
+    <d:ProjectSourceUrl>https://maven.apache.org/scm.html</d:ProjectSourceUrl>
+    <d:PackageSourceUrl>https://github.com/TheCakeIsNaOH/chocolatey-packages</d:PackageSourceUrl>
+    <d:DocsUrl>https://maven.apache.org/guides/index.html</d:DocsUrl>
+    <d:MailingListUrl>https://maven.apache.org/mailing-lists.html</d:MailingListUrl>
+    <d:BugTrackerUrl>https://issues.apache.org/jira/projects/MNG/issues</d:BugTrackerUrl>
+    <d:IsApproved m:type="Edm.Boolean">true</d:IsApproved>
+    <d:PackageStatus>Approved</d:PackageStatus>
+    <d:PackageSubmittedStatus>Ready</d:PackageSubmittedStatus>
+    <d:PackageTestResultUrl>https://gist.github.com/choco-bot/3ce90ed8f7a79b237e3aefca4654f13d</d:PackageTestResultUrl>
+    <d:PackageTestResultStatus>Passing</d:PackageTestResultStatus>
+    <d:PackageTestResultStatusDate m:type="Edm.DateTime">2023-06-26T18:47:33.113</d:PackageTestResultStatusDate>
+    <d:PackageValidationResultStatus>Passing</d:PackageValidationResultStatus>
+    <d:PackageValidationResultDate m:type="Edm.DateTime">2023-06-26T18:37:03.367</d:PackageValidationResultDate>
+    <d:PackageCleanupResultDate m:type="Edm.DateTime" m:null="true"></d:PackageCleanupResultDate>
+    <d:PackageReviewedDate m:type="Edm.DateTime">2023-06-26T19:11:59.837</d:PackageReviewedDate>
+    <d:PackageApprovedDate m:type="Edm.DateTime">2023-06-26T19:11:59.837</d:PackageApprovedDate>
+    <d:PackageReviewer m:null="true"></d:PackageReviewer>
+    <d:IsDownloadCacheAvailable m:type="Edm.Boolean">false</d:IsDownloadCacheAvailable>
+    <d:DownloadCacheStatus>Checked</d:DownloadCacheStatus>
+    <d:DownloadCacheDate m:type="Edm.DateTime">2023-06-26T20:12:29.253</d:DownloadCacheDate>
+    <d:DownloadCache m:null="true"></d:DownloadCache>
+    <d:PackageScanStatus>NotFlagged</d:PackageScanStatus>
+    <d:PackageScanResultDate m:type="Edm.DateTime">2023-06-26T19:11:59.837</d:PackageScanResultDate>
+    <d:PackageScanFlagResult>None</d:PackageScanFlagResult>
+  </m:properties>
+</entry>
